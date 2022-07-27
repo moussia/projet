@@ -1,7 +1,0 @@
-front/node_modules
-front/build
-front/.env
-.history
-back/.env
-.DS_Store
-.gitignore
