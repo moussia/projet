@@ -1,0 +1,19 @@
+#
+POST http://localhost:3003/user/create
+Content-Type: application/json
+
+{
+    "lastname" : "moussia",
+    "firstname" : "mottal",
+    "alias" : "moussia",
+    "email" : "moussiamottal@gmail.com",
+    "password" : "Hayamottal555/",
+    "passwordConfirm" : "Hayamottal555/",
+    "phone" : "0140185678",
+    "address" : "8 allée de la garance",
+    "city" : "paris",
+    "country" : "france",
+    
+    "zipcode" : "75019",
+    "sex" : "WOMAN"
+}
